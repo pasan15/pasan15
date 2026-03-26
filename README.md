@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ### `whoami`
 
@@ -136,10 +136,10 @@ for area, focus in current_projects.items():
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pasan-ranaweera)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasanranaweera017@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://tryhackme.com](https://tryhackme.com/p/pasanranaweera))
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d2b54-50f0-72c2-ab9a-85bd9cc3eba8)
 
 </div>
 
