@@ -1,5 +1,6 @@
-# 💫 About Me:
-I am developing strong foundational knowledge in network design, systems administration, and cybersecurity. My academic focus is on building practical skills in network infrastructure, security practices, and cloud technologies. I am particularly interested in areas such as network engineering, cybersecurity, and cloud architecture, and I continuously work on improving my hands-on experience through labs and self-learning.
+## 👨‍💻 Pasan | Networking Student
+💫 About Me:
+I am developing strong foundational knowledge in network design, systems administration, and cybersecurity. My academic focus is on building practical skills in network infrastructure, security practices, and cloud technologies. I am particularly interested in areas such as network engineering, cybersecurity, and cloud architecture, and I continuously work on improving my hands-on experience through labs and self learning.
 
 
 # 💻 Tech Stack:
