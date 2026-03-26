@@ -33,9 +33,9 @@ $ cat about.txt
   Mission  : Secure. Connect. Automate.
 ```
 
-> *"The quieter you become, the more you can hear — about your network traffic."*
+> *"The quieter you become the more you can hear about your network traffic."*
 
-I'm a tech enthusiast with a growing obsession for **network infrastructure**, **cybersecurity defense**, and **cloud architecture**. I build labs, break configs, fix them, and then break them again — that's how growth happens.
+I'm a tech enthusiast with a growing obsession for **network infrastructure**, **cybersecurity defense**, and **cloud architecture**. I build labs, break configs fix them, and then break them again that's how growth happens.
 
 ---
 
@@ -154,7 +154,5 @@ for area, focus in current_projects.items():
 ║    Every breach is a reminder."           ║
 ╚═══════════════════════════════════════════╝
 ```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=flat-square&label=PROFILE+VISITS)
 
 </div>
