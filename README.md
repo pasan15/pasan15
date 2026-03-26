@@ -1,74 +1,160 @@
-<h1 align="center">Hi 👋, I'm Pasan</h1>
-<h3 align="center">Aspiring Network Engineer | Cybersecurity Enthusiast | Cloud Learner</h3>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        ██████╗ ███████╗ ██████╗ ██╗   ██╗████████╗         ║
+║        ██╔══██╗██╔════╝██╔════╝ ██║   ██║╚══██╔══╝         ║
+║        ██████╔╝█████╗  ██║      ██║   ██║   ██║            ║
+║        ██╔══██╗██╔══╝  ██║      ██║   ██║   ██║            ║
+║        ██║  ██║███████╗╚██████╗ ╚██████╔╝   ██║            ║
+║        ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝    ╚═╝            ║
+║                                                              ║
+║              [ SYSTEM INITIALIZED. WELCOME. ]               ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Network+Engineer+in+Training+%F0%9F%8C%90;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+Architecture+Explorer+%E2%98%81%EF%B8%8F;Building+Labs.+Breaking+Things.+Learning.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 💫 About Me:
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-I am developing strong foundational knowledge in network design, systems administration, and cybersecurity. My academic focus is on building practical skills in network infrastructure, security practices, and cloud technologies. I am particularly interested in areas such as network engineering, cybersecurity, and cloud architecture, and I continuously work on improving my hands-on experience through labs and self learning.
+### `whoami`
 
----
+```bash
+$ cat about.txt
 
-## 💻 Tech Stack:
+  Name     : Pasan Ranaweera
+  Role     : Network & Security Engineer (in progress)
+  Status   : Online | Always Learning
+  Mission  : Secure. Connect. Automate.
+```
 
-### 🌐 Networking
+> *"The quieter you become, the more you can hear — about your network traffic."*
 
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge\&logo=cisco\&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-
-### 🖥️ Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-
-### 🔐 Cybersecurity
-
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+I'm a tech enthusiast with a growing obsession for **network infrastructure**, **cybersecurity defense**, and **cloud architecture**. I build labs, break configs, fix them, and then break them again — that's how growth happens.
 
 ---
 
-## 📊 GitHub Stats:
+<br clear="right"/>
 
-![](https://github-readme-stats.vercel.app/api?username=pasan15\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=pasan15\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasan15\&theme=dark\&hide_border=false\&layout=compact)
+### `ls -la /tech-stack`
+
+**🌐 Networking**
+
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-00ADEF?style=for-the-badge&logo=gnome&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
+**🔐 Cybersecurity**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)
+
+**☁️ Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+**🖥️ Systems & OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+**💻 Programming & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+
+**⚙️ Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+**📜 Certifications & Learning Path**
+
+![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS_SAA-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-## 🔥 Current Focus:
+### `./current_focus.sh`
 
-* Building Networking Labs (Packet Tracer & GNS3)
-* Learning Cybersecurity & Penetration Testing
-* Exploring Cloud Technologies (AWS & Azure)
+```python
+current_projects = {
+    "🔬 Labs"     : "Building Network topologies in Packet Tracer & GNS3",
+    "🔴 RedTeam"  : "Learning Penetration Testing & Ethical Hacking",
+    "☁️  Cloud"   : "Exploring AWS & Azure certifications path",
+    "📚 Reading"  : "CompTIA Network+ / Security+ prep material",
+}
+
+for area, focus in current_projects.items():
+    print(f"{area} → {focus}")
+```
 
 ---
 
-## 📫 Connect With Me:
+### `cat /var/log/github-stats.log`
 
-* 💼 LinkedIn: www.linkedin.com/in/pasan-ranaweera
-* 📧 Email: pasanranaweera017@gmail.com
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=pasan15\&icon=0\&color=0)](https://visitcount.itsvg.in)
+### `traceroute /reach-me`
 
-<!-- Customized for Pasan -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════╗
+║   "Every packet tells a story.            ║
+║    Every log has a lesson.                ║
+║    Every breach is a reminder."           ║
+╚═══════════════════════════════════════════╝
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=flat-square&label=PROFILE+VISITS)
+
+</div>
